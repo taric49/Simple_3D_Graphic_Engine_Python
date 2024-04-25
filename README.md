@@ -1,2 +1,2 @@
-# Simple_3D_Graphic_Engine_Python
+# Simple_3D_Projection_Python
 this project is for fun 
